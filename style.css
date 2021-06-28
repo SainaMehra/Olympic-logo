@@ -1,0 +1,21 @@
+.body_background {
+    background-image:
+      url("https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/nuevos_olimpicos_mult_1_res/nuevos_deportes_746x419.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: blue;
+    font-size: 50px;
+  }
+  
+  #myCanvas {
+    background-color: #ddb88e;
+    border: 10px solid black;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
